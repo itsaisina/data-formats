@@ -1,0 +1,8 @@
+---
+gas_giants:
+  - name: Jupiter
+    mass: 1.8982E+27
+    mean_radius: 69.911
+  - name: Saturn
+    mass: 5.6834E+26
+    mean_radius: 58.232
